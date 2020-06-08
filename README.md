@@ -1,9 +1,5 @@
 # Hierarchical Attention Networks for document classification
 
-### HANs Architecture
-
-![HANs](HANs.png)
-
 ### Installation and setup
 
 Install [Python 3](https://www.python.org/downloads/release/python-3610/) and [pip](https://pypi.org/project/pip/) and clone this project:
@@ -46,3 +42,15 @@ Amazon fine food: https://www.kaggle.com/snap/amazon-fine-food-reviews?select=da
 
 Glove word vector: http://nlp.stanford.edu/data/glove.6B.zip
 ```
+
+### HANs Architecture
+
+![HANs](HANs.png)
+
+### Accuracy
+
+![Acc](Acc.png)
+
+### Predict
+
+![Pred](Pred.png)
