@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+clean_train_reviews.csv
+finefoods.txt
+foods.csv
+database.sqlite
+final_HATT_model.h5
+glove.6B/

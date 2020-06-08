@@ -28,7 +28,7 @@ $ pip install notebook
 Add environment to Jupyter Notebook
 ```
 $ pip install ipykernel
-$ python -m ipykernel install --user --name=virtualenv
+$ python -m ipykernel install --user --name=env
 ```
 Run Jupter Notebook
 ```
